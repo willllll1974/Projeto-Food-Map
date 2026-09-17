@@ -16,3 +16,6 @@ A decisão foi tomada principalmente com base na familiaridade da equipe com a f
 
 A opção do MongoDB viabilizou o armazenamento dos dados de refeições em documentos, o que tornou mais simples a organização de atributos como ingredientes, classificação e as necessidades alimentares dos usuários.
 
+## Commit
+
+6b7805c - Documenta a escolha do MongoDB
