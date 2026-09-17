@@ -30,4 +30,4 @@ Como consequência, a aplicação mantém uma estrutura de dados mais alinhada �
     
 ## Commit
 
-Será preenchido após o commit desta ADR.
+ab99d30 - Documenta a representação dos componentes alimentares
