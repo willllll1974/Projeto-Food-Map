@@ -26,4 +26,4 @@ Essa estrutura permite que a API utilize essas classificações durante as consu
 
 ## Commit
 
-Será preenchido após o commit desta ADR.
+bce0bd3 - Documenta a classificação das comidas
