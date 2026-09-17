@@ -24,4 +24,4 @@ Essa estrutura facilita a consulta das informações de uma comida, pois seus in
 
 ## Commit
 
-A decisão será registrada no histórico do Git por meio do commit de inclusão desta ADR.
+28145bc - Documenta estrutura dos ingredientes
