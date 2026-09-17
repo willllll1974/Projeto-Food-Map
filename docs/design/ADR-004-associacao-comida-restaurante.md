@@ -32,4 +32,4 @@ Como consequência, cada registro de comida mantém sua associação com um úni
 
 ## Commit
 
-A decisão será registrada no histórico do Git por meio do commit de inclusão desta ADR.
+16091f8 — Documenta associação entre comida e restaurante
